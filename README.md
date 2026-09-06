@@ -20,9 +20,7 @@ A responsive portfolio website for job applications, focused on Python, backend 
 - LinkedIn: https://www.linkedin.com/in/dhanashri-phadtare-77316b414/
 
 
-## NexAI Screenshots
-The portfolio includes two original NexAI screenshots in `assets/`: the AI workspace/dashboard and the login screen.
+## NexAI & Full stack chatbot Screenshots
+The portfolio includes two original NexAI screenshots and 2 Full Stack AI chatbot screenshots in the AI workspace/dashboard and the login screen.
 
 
-## Project Screenshots
-NexAI uses two unique screenshots (dashboard and login). Full-Stack AI Chatbot uses two unique screenshots (chat interface and registration page). No screenshot is repeated.
